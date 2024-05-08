@@ -1,0 +1,74 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_45C72643_4F33_D459_41D1_1D2FA9054E0E.label = 1 andar APG
+panorama_4354A1C9_4F33_4C69_41CA_A7FBF29C705A.label = 1 andar adm esquerda
+panorama_45F954AD_4F33_F429_41BB_C7F83EE8AE36.label = 1 andar consultório
+panorama_45C703D0_4F33_CC76_41AC_431E9416CAE2.label = 1 andar corr acompanhamento prof
+panorama_45C7521A_4F33_CFEA_41BB_1844CBB0638C.label = 1 andar corredor centro treinamento
+panorama_45C7E06E_4F33_4C2B_41C2_D50706C4C22F.label = 1 andar corredor centro treinamento02
+panorama_45C7DC4A_4F33_746B_41C5_1EF12A4F6120.label = 1 andar corredor02
+panorama_45C7BEAF_4F33_542A_41C0_E1BB449DFB69.label = 1 andar corredor1
+panorama_45C7A9D6_4F33_5C7B_41C1_78C3A08BB9AA.label = 1 andar corredor2
+panorama_45C7386A_4F32_BC2A_41C8_829C235EA2C7.label = 1 andar recepção adm
+panorama_45C7872A_4F32_D42A_41C8_DEC9978BA43A.label = 1 andar sala esquerda
+panorama_45C74921_4F32_FDD9_41C4_54F1914A0E27.label = 1 andar simulação bebê
+panorama_45C767F1_4F32_D439_41BB_2E205683CC66.label = 1 andar simulação corr02
+panorama_45C706B9_4F32_B436_41B2_208EDE6CC02B.label = 1 andar simulação corre01
+panorama_45C8C597_4F3D_54FA_41D3_7EB33E188EA6.label = 1 andar simulação grávida
+panorama_45C94468_4F3D_7456_41C3_F0E5AC5003D9.label = 1 andar simulação homem
+panorama_45C903E8_4F3D_4C56_41C3_0A841FF7781A.label = 1 andar simulação sl criança
+panorama_45C9632C_4F3D_4C2E_41AB_2E35D9DB3D2A.label = 1 andar simulação sl01
+panorama_45C90282_4F3D_CCDA_41D3_B5A776FC93A7.label = 1 andar simulação sl02
+panorama_45C92140_4F3D_CC56_41D0_B9CF37AB538E.label = 2 andar corredor01
+panorama_45C9DFCE_4F3D_F46A_41D0_9612C8626FB1.label = 2 andar corredor02
+panorama_45C9AE3A_4F3D_D42B_41D2_DEB6AC04EAFB.label = 2 andar frente APG
+panorama_45CABA51_4F3F_7C76_41C7_6D4DA2C7F8B4.label = Entrada administração
+panorama_45CA0672_4F3E_B43A_41B0_1B3DE05F113B.label = Quiosques
+panorama_45C92C9D_4F3D_74EE_41D0_AD794A517304.label = admnis dentro
+panorama_45C95AEE_4F3D_5C2A_41C5_B0EDDC3A4ED5.label = anatomia01
+panorama_45C92A45_4F3E_BC59_41D1_3DD7966BA8D9.label = anatomia2(1)
+panorama_45CAF98C_4F3E_FCEE_4167_4C5D5194C7D5.label = auditório cheio
+panorama_45CA78FA_4F3E_DC2A_41CA_76F97EDF7E7A.label = auditório vazio 
+panorama_45CAB7D2_4F3E_B47B_41B7_468C5A6D3D4A.label = biblio dentro01
+panorama_45CB6603_4F3F_57DA_41CD_8AC2D5540309.label = biblio dentro02
+panorama_45CB2445_4F3F_745E_41AC_4817CD52BD64.label = cajueiro
+panorama_45CBB4AD_4F3F_542E_41BA_958CF3502985.label = corredo terreo centro
+panorama_45CB4310_4F3F_4DF6_41B5_BCB56452A5C8.label = corredor 2 andar centro
+panorama_45CBA1B5_4F3F_CC3E_41B0_822D4EC91CBD.label = corredor adm
+panorama_45CBE03C_4F3F_CC2E_41C5_1B4CE83A488A.label = corredot terreo01_02
+panorama_45CBEF12_4F3F_F5FA_41B7_05A909A1BD5A.label = correior meio 1 andar
+panorama_45CB8DC3_4F3F_D45A_41C3_972ECD6ADA75.label = coworking
+panorama_45CA2C5E_4F3F_B46A_41B4_077A8CEFA9D2.label = dentro entrada
+panorama_45CA8B15_4F3F_5DFE_41CD_D0BFE201D59D.label = descanso 
+panorama_42D77407_4F2D_4BDA_41A3_FA2B3C5988B8.label = drone fachada afya
+panorama_42B114C7_4F2D_545A_41CB_36ECF5794349.label = drone guarita
+panorama_45CA8A12_4F3F_5FFB_41C4_B4E9EDAC8A70.label = entrada calçada
+panorama_45CA19C3_4F3E_BC5A_41C3_673A8B138DDE.label = externa01
+panorama_45CAA8EF_4F3E_DC2A_41CC_2D5CD6F34B70.label = frente auditório
+panorama_45CA27E7_4F3E_F45A_41B0_966A071FA11E.label = frente corredor bibiot
+panorama_45C9A5DF_4F3D_546A_41D2_F2821CFD87CC.label = restaurante
+panorama_45CE04B8_4F3D_7436_41CD_783174E89D71.label = sala adm
+panorama_45C9C32A_4F3D_4C2A_41C7_354EE8A9D76D.label = sala da família
+panorama_45CE71E2_4F3D_4C5A_41D3_2D3B5EE48FC4.label = sala mentoria 
+panorama_45CE7077_4F3D_CC3A_41BF_DA9C7FA84D57.label = sala professor 01
+panorama_45CEFF15_4F3D_D5FE_41D2_0D20713512D8.label = sala professor02
+panorama_45CE2DA1_4F3D_F4D6_4161_1E50BACD2CBC.label = tec cirurgia
+panorama_45CEAC50_4F3D_D476_41CD_E1AAC6796762.label = terreo sala 02
+panorama_45CFEA89_4F3D_BCD6_41D1_D56FD0EF61E8.label = terreo sala01
+panorama_45C938D1_4F3E_DC76_41B3_BF99FCE0D9F5.label = área verde
+
+## Skin
+
+### Label
+Label_4CD6341A_555B_29D0_41A7_DD1A4F4A0DF3.text = 1 andar
+Label_43547DEC_555D_3A71_41D3_49BCE29D06EA.text = 2 andar
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Afya
